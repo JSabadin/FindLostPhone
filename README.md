@@ -8,4 +8,4 @@ We employ the Levenberg-Marquardt algorithm, a nonlinear local optimization tech
 
 ## Repository Contents
 - MATLAB code implementing the Levenberg-Marquardt algorithm.
-- `vaja1_IS.pdf`: A detailed document explaining the theoretical background and implementation details.
+-  [FindLostPhone Methodology (PDF)](vaja1_IS.pdf): A detailed document explaining the theoretical background and implementation details.
