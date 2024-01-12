@@ -16,7 +16,7 @@ The following images illustrate aspects of the loss function used in our optimiz
 ![3D Plot of Loss Function](docs/3d_plot.jpg)
 
 #### Contour Plot of Loss Function
-![Contour Plot of Loss Function](docs/countor_plot.jpg)
+![Contour Plot of Loss Function](docs/countour_plot.jpg)
 
 
 ## Repository Contents
