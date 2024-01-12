@@ -20,6 +20,7 @@ The following images illustrate aspects of the loss function used in our optimiz
 #### Contour Plot of Loss Function
 <img src="docs/countour_plot.jpg" alt="Contour Plot of Loss Function" width="300"/>
 
+We have also implemented the weighted non linear least squares and obtained superior results.
 
 ## Repository Contents
 - MATLAB code implementing the Levenberg-Marquardt algorithm.
