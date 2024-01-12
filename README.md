@@ -10,13 +10,13 @@ We employ the Levenberg-Marquardt algorithm, a nonlinear local optimization tech
 The following images illustrate aspects of the loss function used in our optimization process:
 
 #### Representation of the Task Problem
-![Representation of the Task Problem](docs/circles.png)
+![Representation of the Task Problem](docs/circles.jpg)
 
 #### 3D Plot of Loss Function
-![3D Plot of Loss Function](docs/3d_plot.png)
+![3D Plot of Loss Function](docs/3d_plot.jpg)
 
 #### Contour Plot of Loss Function
-![Contour Plot of Loss Function](docs/countor_plot.png)
+![Contour Plot of Loss Function](docs/countor_plot.jpg)
 
 
 ## Repository Contents
